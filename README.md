@@ -1,11 +1,11 @@
 # Overview
-Sample code how to train object detection with YOLO on Google Colaboratory.
+Sample code how to train object detection with [YOLO](https://pjreddie.com/darknet/yolo/) on Google Colaboratory.
 
 # Description
-* Training.ipynb
+* Training.ipynb  
 Main code.
 
-* WeightBackup.ipynb
+* WeightBackup.ipynb  
 This is for saving weight to Google Drive because the training needs over 12 hours and Google Colaboratory will be restarted and lose the trained weight. To avoid that, we have to save weight periodically to another place (e.g. Google Drive).
 
 # How to open it on Google Colaboratory
